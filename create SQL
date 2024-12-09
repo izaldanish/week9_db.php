@@ -1,3 +1,7 @@
+CREATE DATABASE Lab_5b;
+
+USE Lab_5b;
+========================================================
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     matric VARCHAR(50) NOT NULL,
